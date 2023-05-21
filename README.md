@@ -1,6 +1,4 @@
-
-<h1>HYU-ITE2038</h1>
-<strong>Database Systems and Applications</strong> in Hanyang University
+<h1>관계형 데이터베이스 설계 및 구현</h1>
 
 <h2>Contents</h2>
 <a href = "https://github.com/byeongjaeSon/DBMS-project/tree/main/project6/db_project/db"> 소스코드 집합소 </a> 에서 구현된 모든 코드를 볼 수 있습니다.
@@ -9,7 +7,7 @@
 ![DBMS 계층](https://user-images.githubusercontent.com/80969604/160055854-32b3dadf-b681-4572-bf12-159e00b5accf.jpg)
 
 
-설계 및 구현 설명에 대한 위키 링크입니다.
+구조 및 설계를 설명하는 위키 링크입니다.
 <ul>
   <li>Disk Based B+ Tree : <a href = "https://github.com/Son-Byeongjae/DBMS-project/wiki/project2-:-Disk-Based-B--Tree" >LINK</a></li> 
   <li>Buffer management : <a href = "https://github.com/Son-Byeongjae/DBMS-project/wiki/project3-:-Buffer-Manager" >LINK</a></li>
